@@ -1,3 +1,3 @@
 function combinaison(n, p){
-    return factorielle((n-p))* factorielle(p);
+    return factorielle(n) / factorielle((n-p))* factorielle(p);
 }
