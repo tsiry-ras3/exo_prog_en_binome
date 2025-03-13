@@ -1,0 +1,8 @@
+{
+  "name": "exo_git",
+  "version": "1.0.0",
+  "description": "exo en binome",
+  "main": "exo.js",
+  "author": "Tsiry",
+  "license": "ISC"
+}
