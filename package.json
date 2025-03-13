@@ -1,0 +1,14 @@
+{
+  "name": "k2_events",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Gérer des évenements avec toutes tranquillité avec k2_events .",
+  "keywords": [
+    "events",
+    "K2",
+    "party",
+    "agenda"
+  ],
+  "author": "Antso",
+  "license": "ISC"
+}
